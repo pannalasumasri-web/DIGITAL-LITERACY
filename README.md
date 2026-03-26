@@ -69,9 +69,10 @@ Task 3 – Coding & Collaboration Platforms
 - Created a Social Media Do’s and Don’ts checklist  
 
  Files:  
-- `task-4-email-etiquette/emails.txt`
+- `task-4 social media checklist do's and do'es
+- TASK-4 SOCIAL MEDIA CHECKLIST
 - 
-- `task-4-email-etiquette/social-media-checklist.txt`  
+- `task-4   
 
  Task 5 – Cybercrime Awareness
 Case Study
