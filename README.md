@@ -86,8 +86,10 @@ Case Study
 - Created a checklist with safety tips including UPI safety and reporting methods  
 
  Files:  
-- `task-5-cybercrime/casestudy.txt`  
-- `task-5-cybercrime/prevention-checklist.txt`  
+- `task-5 casestudy
+- https://github.com/pannalasumasri-web/DIGITAL-LITERACY/blob/main/TASK-5%20PHIISHING%20CASE%20STUDY  
+- `task-5 prevention-checklist
+- `  
 
 
  Project Report
