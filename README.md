@@ -94,7 +94,8 @@ Case Study
  Project Report
 The detailed report of all tasks is included in the repository.
 
- File: `report/Project_Report.pdf`
+ File: project report
+ https://github.com/pannalasumasri-web/DIGITAL-LITERACY/blob/main/DIGITAL%20LITERACY%20PROJECT%20REPORT%20(1).docx
 
  Tools & Platforms Used
 - Canva  
